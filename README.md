@@ -1,4 +1,4 @@
-# Mini-Projet Spark 2022-2023
+# Mini-Projet Spark 2023-2024
 ## Description du Projet
 Ce mini-projet a été réalisé dans le cadre de la spécialité "Technologies de l’information option informatique" en 3ème année à l'ESIR. Le projet se concentre sur l'analyse de données à l'aide de Spark et explore un jeu de données spécifique.
 
